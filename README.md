@@ -1,5 +1,5 @@
 <center>
-    ![git+github](img/git_github.png 'Como usar git & github!')
+    <img alt="git+github" src="img/git_github.png" title="imagem extraida do ebook 'O que e o git? - Prof. Gustavo Guanabara - Curso em video'..">
 </center>
 
 # Como-Usar-Git-Github
